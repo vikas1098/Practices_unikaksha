@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(206, 190, 199);
+    
+}
+.container{
+    padding: 0px 20px 20px 20px;
+    height: 2000px;
+}
+img{
+    height: 200px;
+    width: 200;
+    padding-left: 10px ;
+}
+.right
+{
+    background-color: rgb(231, 180, 180);
+    position: relative;
+    width: 50%;
+}
+
+.left{
+    background-color: rgb(134, 190, 134);
+    width: 50%;
+    position: relative;
+    top: -1940px;
+    height: 440px;
+    margin-left: 50%;
+}
+p{
+    text-align: justify;
+    padding-left: 10px ;
+    padding-right: 6px;
+}
+a{
+    padding-left: 10px;
+    position: relative;
+    bottom: 5px;
+    color: blue;
+}
+.wrapper{
+    background-color: rgb(206, 190, 199);
+}
+
+button#lastbutton{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: large;
+    width: 100%;
+    color: white;
+    opacity: 10;
+    border-color: blue;
+}
+button{
+    background-color: rgb(87, 87, 209);
+    padding: 10px;
+    border-radius: 10px;
+    font-size: large;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: white;
+    border-color: rgb(87, 87, 209);
+}
+.promo{
+  
+    position: relative;
+    top: -1920px;
+    margin-left: 50%;
+}
+button:hover{
+    opacity: 0.8;
+}
+button#lastbutton:hover{
+    opacity: 0.8;
+}
+h1#first{
+    padding-left: 10px;
+}
